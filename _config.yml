@@ -34,7 +34,7 @@ timezone: America/New_York # see https://en.wikipedia.org/wiki/List_of_tz_databa
 ## => Author and Social
 ##############################
 author:
-  type      : "person" (default)
+  type      : "person" # (default)
   name      : Sean Horgan
   url       : https://sean.horgan.net
   avatar    : # path or url of avatar image (square)
